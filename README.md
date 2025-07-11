@@ -9,5 +9,3 @@ Credit to Chirpy for the [Cranefly](https://github.com/chirpy2605/voron/tree/mai
 Most of the cad was made in a few hours late at night so the fusion files are a real mess but should be workable if you need any parts for your TL4100
 
 I will be adding all my klipper configs and orca profiles as I make them but dont expect them to be pretty
-
-How the fuck do you add folders to github?
