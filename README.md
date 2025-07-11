@@ -2,7 +2,7 @@ This is just a remake of a 2017 Jaycar kit delta but its not really because ive 
 
 i'll slowly be adding bits and bobs to this as I work on this project
 
-THIS IS NOT A KIT OR A GUIDE, if you do choose to print parts from this print all parts from ABS at the voron printing spec and cut the acrylic sheets from 6mm
+THIS IS NOT A KIT OR A GUIDE, if you do choose to print parts from this print all parts from ABS at the voron printing spec and cut the acrylic sheets from 6mm thick acrylic (or metal? idk how thatd work)
 
 Credit to Chirpy for the Cranefly toolhead which I slightly modified to fit the Mellow3D ALPS heatcore hotend and ABL probe
 
