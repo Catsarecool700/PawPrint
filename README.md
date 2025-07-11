@@ -10,5 +10,5 @@ Most of the cad was made in a few hours late at night so the fusion files are a 
 
 I will be adding all my klipper configs and orca profiles as I make them but dont expect them to be pretty
 
-<img src="images/IMG_0838.png"/>
-<img src="images/IMG_0761 2.png"/>
+<img src="Images/IMG_0838.jpg"/>
+<img src="Images/IMG_0761 2.jpg"/>
